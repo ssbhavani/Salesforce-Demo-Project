@@ -20,4 +20,4 @@
 Live Demo on the Scratch Org: https://hosted-scratch.herokuapp.com/launch?template=https://github.com/ssbhavani/Salesforce-Demo-Project
 
 # Preview
-image.png
+![image](https://user-images.githubusercontent.com/88048021/211742955-6528fd63-e80a-41d1-8378-82a9c14a3cc9.png)
